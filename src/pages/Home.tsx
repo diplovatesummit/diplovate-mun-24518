@@ -60,8 +60,8 @@ const Home = () => {
             <Button 
               asChild
               size="lg"
-              variant="outline"
-              className="bg-white/10 backdrop-blur-sm text-white border-white/30 hover:bg-white/20 font-semibold"
+              variant="hero"
+              className="font-semibold"
             >
               <a href="https://forms.gle/dSBDkrZE5aAvePZs7" target="_blank" rel="noopener noreferrer">
                 Register Now
