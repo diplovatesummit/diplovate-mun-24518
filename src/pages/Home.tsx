@@ -160,12 +160,12 @@ Known for excellence in leadership, declamation, and fostering international dia
           <div className="flex items-center justify-center gap-2 mt-4">
             <Instagram className="w-5 h-5 text-primary" />
             <a 
-              href="https://www.instagram.com/kartikofficiall" 
+              href="https://www.instagram.com/_kartiksharma_13" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-primary hover:text-primary/80 transition-colors font-medium"
             >
-              @kartikofficiall
+              @_kartiksharma_13
             </a>
           </div>
         </div>
