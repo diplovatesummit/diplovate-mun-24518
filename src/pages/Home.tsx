@@ -229,7 +229,7 @@ Together, we build platforms that empower voices and inspire change.
                     <div>
                       <p className="text-sm text-muted-foreground mb-1">Email</p>
                       <a 
-                        href="diplovatesummit@gmail.com" 
+                        href="mailto:diplovatesummit@gmail.com" 
                         className="text-foreground hover:text-primary transition-colors font-medium"
                       >
                        diplovatesummit@gmail.com
