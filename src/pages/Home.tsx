@@ -170,21 +170,6 @@ Known for excellence in leadership, declamation, and fostering international dia
           </div>
         </div>
       </section>
-      {/* secratery general*/}
-       <section className="py-16 px-4 bg-background">
-        <div className="container mx-auto max-w-4xl text-center">
-          <h3 className="text-2xl md:text-3xl font-bold text-foreground mb-3">
-            Mr. Anish Bharadavaj
-          </h3>
-          <p className="text-lg text-muted-foreground">
-            Secretary General
-          </p>
-          <p className="text-muted-foreground mt-1">
-          A passionate youth leader dedicated to global dialogue and community service.
-Actively engaged in social welfare initiatives and youth empowerment programs.
-          </p>
-        </div>
-      </section>
       {/* foundation team */}
         <section className="py-16 px-4 bg-background">
         <div className="container mx-auto max-w-4xl text-center">
