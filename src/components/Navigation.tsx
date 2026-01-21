@@ -2,6 +2,7 @@ import { NavLink } from "react-router-dom";
 import { Menu, X } from "lucide-react";
 import { useState } from "react";
 import munLogo from "@/assets/mun-logo.png";
+import { ThemeToggle } from "./ThemeToggle";
 
 const Navigation = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -36,6 +37,7 @@ const Navigation = () => {
                 {link.label}
               </NavLink>
             ))}
+            <ThemeToggle />
           </div>
 
           {/* Mobile Menu Button */}
@@ -65,6 +67,9 @@ const Navigation = () => {
                   {link.label}
                 </NavLink>
               ))}
+              <div className="px-2">
+                <ThemeToggle />
+              </div>
             </div>
           </div>
         )}
